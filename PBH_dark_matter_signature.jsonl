@@ -1,0 +1,100 @@
+{"instruction": "What percentage of dark matter do primordial black holes (PBHs) account for in this model?", "input": "", "output": "Primordial black holes (PBHs) account for 18% of dark matter in this model."}
+{"instruction": "How do primordial black holes form according to the chunk?", "input": "", "output": "Primordial black holes form from early-universe density fluctuations in the negative shadows."}
+{"instruction": "What is the mass range of primordial black holes mentioned?", "input": "", "output": "The masses of primordial black holes span 10^{-9} to 10^{15} solar masses."}
+{"instruction": "What are the typical sizes of most primordial black holes, and why are they this size?", "input": "", "output": "Most primordial black holes are asteroid-sized (10^{15-17} grams) to evade evaporation constraints while seeding the flux anchors."}
+{"instruction": "What types of signatures do primordial black holes produce?", "input": "", "output": "Primordial black holes produce vivid and multi-messenger signatures."}
+{"instruction": "Describe the gravitational wave signatures from PBHs.", "input": "", "output": "Gravitational wave bursts occur at 539.9 seconds from PBH orbits in halos, with LIGO O5 in 2026 spotting precursors Δt_{11D}<0.1 seconds, distinguishing them from stellar mergers by their sub-harmonic phasing."}
+{"instruction": "What is the period of the gravitational wave bursts from PBH orbits?", "input": "", "output": "The gravitational wave bursts from PBH orbits in halos occur at 539.9 seconds."}
+{"instruction": "How will LIGO O5 detect PBH-related precursors in 2026?", "input": "", "output": "LIGO O5 in 2026 will spot precursors with Δt_{11D}<0.1 seconds."}
+{"instruction": "What distinguishes PBH gravitational waves from stellar mergers?", "input": "", "output": "PBH gravitational waves are distinguished from stellar mergers by their sub-harmonic phasing."}
+{"instruction": "What does cosmic microwave background lensing show in relation to PBHs?", "input": "", "output": "Cosmic microwave background lensing shows dips at l=539.9 from PBH clusters."}
+{"instruction": "How will the Simons Observatory confirm PBH contributions in 2026?", "input": "", "output": "The Simons Observatory will confirm fractional contributions f_PBH=0.058 in 2026."}
+{"instruction": "Why do PBH shadows lens photons without gamma-ray excesses?", "input": "", "output": "PBH shadows lens photons without gamma-ray excesses because Hawking radiation is damped below 10^{-15} erg/s by 11D leakage."}
+{"instruction": "What is the damping level of Hawking radiation for PBHs?", "input": "", "output": "Hawking radiation is damped below 10^{-15} erg/s by 11D leakage."}
+{"instruction": "What will the Event Horizon Telescope observe in 2026 related to PBHs?", "input": "", "output": "The Event Horizon Telescope's 2026 neutron star spikes near PBH-rich regions will reveal polarity flips in M87*-like jets."}
+{"instruction": "How do PBH shadows affect magnetic fields in jets?", "input": "", "output": "PBH shadows torque magnetic fields with 0.2 beta PBH fraction, leading to polarity flips in M87*-like jets."}
+{"instruction": "What is the PBH fraction mentioned in the context of magnetic field torquing?", "input": "", "output": "The PBH fraction is 0.2 beta in the context of shadows torquing magnetic fields."}
+{"instruction": "What will XMM-Newton detect in X-ray binaries in 2027 related to PBHs?", "input": "", "output": "XMM-Newton in 2027 will spot Hawking modulations under 10^{-15} erg/s in X-ray binaries."}
+{"instruction": "What is the nature of PBH evaporation mentioned?", "input": "", "output": "PBH evaporation is quasi-static at τ_evap≈10^{10} years."}
+{"instruction": "How do PBHs evade Fermi-LAT limits?", "input": "", "output": "PBHs evade Fermi-LAT limits through quasi-static evaporation at τ_evap≈10^{10} years."}
+{"instruction": "What does microlensing in JWST's 2026 deep fields predict for PBHs?", "input": "", "output": "Microlensing in JWST's 2026 deep fields predicts f_PBH=0.058 confirmations."}
+{"instruction": "What causes 0.1-magnitude dips in high-z quasars according to the chunk?", "input": "", "output": "Asteroid-mass PBHs cause 0.1-magnitude dips in high-z quasars."}
+{"instruction": "What is the fractional contribution f_PBH mentioned for microlensing confirmations?", "input": "", "output": "The fractional contribution is f_PBH=0.058 for microlensing confirmations in JWST's 2026 deep fields."}
+{"instruction": "How does Belle II relate to PBH signatures in particle physics?", "input": "", "output": "Belle II's Q1 2026 cross-checks PBH-induced muon g-2 via δa_μ^{-U} term, showing 2.5-sigma alignment without new particles."}
+{"instruction": "What term is associated with PBH-induced muon g-2?", "input": "", "output": "The term is δa_μ^{-U} for PBH-induced muon g-2."}
+{"instruction": "What is the significance level of the alignment in Belle II's cross-checks?", "input": "", "output": "The alignment shows 2.5-sigma without new particles."}
+{"instruction": "What do PBH waves mimic in galaxies like the Milky Way?", "input": "", "output": "PBH waves (α_ulDM=0.05) mimic Sgr A* flares in galaxies like the Milky Way."}
+{"instruction": "What is the value of α_ulDM for PBH waves?", "input": "", "output": "The value is α_ulDM=0.05 for PBH waves."}
+{"instruction": "How do thorium clocks probe PBH-related modulations?", "input": "", "output": "Thorium clocks probe 0.1 beta clock modulations at flux sub-harmonics."}
+{"instruction": "What is the PBH fraction in the context of clock modulations?", "input": "", "output": "The PBH fraction is 0.1 beta for clock modulations probed by thorium clocks."}
+{"instruction": "What analogy is used to describe dark matter signatures from PBHs?", "input": "", "output": "Dark matter's quiet pull is turned into a symphony of signatures."}
+{"instruction": "Explain the role of asteroid-sized PBHs in the model.", "input": "", "output": "Asteroid-sized PBHs (10^{15-17} grams) evade evaporation constraints while seeding the flux anchors, forming from early-universe density fluctuations in negative shadows."}
+{"instruction": "What are the multi-messenger signatures of PBHs?", "input": "", "output": "Signatures include gravitational wave bursts, CMB lensing dips, neutron star spikes with polarity flips, Hawking modulations in X-ray binaries, microlensing dips, muon g-2 alignments, and PBH waves mimicking flares with clock modulations."}
+{"instruction": "How do PBHs contribute to gravitational wave detections?", "input": "", "output": "PBHs produce gravitational wave bursts at 539.9 seconds from orbits in halos, with precursors Δt_{11D}<0.1 seconds detectable by LIGO O5 in 2026, distinguished by sub-harmonic phasing."}
+{"instruction": "What is the significance of the value l=539.9 in CMB lensing?", "input": "", "output": "CMB lensing shows dips at l=539.9 from PBH clusters."}
+{"instruction": "Why is there no gamma-ray excess from PBH lensing?", "input": "", "output": "There is no gamma-ray excess because Hawking radiation is damped below 10^{-15} erg/s by 11D leakage."}
+{"instruction": "Describe the PBH effect on M87*-like jets.", "input": "", "output": "PBH shadows torque magnetic fields with 0.2 beta PBH fraction, revealing polarity flips in M87*-like jets via neutron star spikes near PBH-rich regions in EHT 2026 observations."}
+{"instruction": "What is the evaporation timescale for PBHs?", "input": "", "output": "The evaporation timescale is quasi-static at τ_evap≈10^{10} years."}
+{"instruction": "How do PBHs evade detection limits from Fermi-LAT?", "input": "", "output": "PBHs evade Fermi-LAT limits due to quasi-static evaporation at τ_evap≈10^{10} years and Hawking modulations under 10^{-15} erg/s."}
+{"instruction": "What magnitude of dips do asteroid-mass PBHs cause in high-z quasars?", "input": "", "output": "Asteroid-mass PBHs cause 0.1-magnitude dips in high-z quasars."}
+{"instruction": "Explain the particle physics tie-in with PBHs via Belle II.", "input": "", "output": "Belle II's Q1 2026 cross-checks show PBH-induced muon g-2 via δa_μ^{-U} term with 2.5-sigma alignment, without requiring new particles."}
+{"instruction": "What mimics Sgr A* flares in the Milky Way?", "input": "", "output": "PBH waves with α_ulDM=0.05 mimic Sgr A* flares."}
+{"instruction": "How are clock modulations probed in relation to PBHs?", "input": "", "output": "Thorium clocks probe 0.1 beta clock modulations at flux sub-harmonics."}
+{"instruction": "What is the overall implication of PBH signatures described?", "input": "", "output": "The signatures turn dark matter's quiet pull into a symphony, providing vivid multi-messenger evidence for PBHs accounting for 18% of dark matter."}
+{"instruction": "List the instruments and years mentioned for detecting PBH signatures.", "input": "", "output": "LIGO O5 in 2026 for gravitational waves, Simons Observatory in 2026 for CMB lensing, Event Horizon Telescope in 2026 for neutron star spikes, XMM-Newton in 2027 for X-ray binaries, JWST in 2026 for microlensing, Belle II in Q1 2026 for muon g-2."}
+{"instruction": "What is the fractional PBH contribution confirmed by Simons Observatory?", "input": "", "output": "The fractional contribution is f_PBH=0.058 confirmed by Simons Observatory in 2026."}
+{"instruction": "What is the PBH mass range in grams for asteroid-sized ones?", "input": "", "output": "The mass range is 10^{15-17} grams for asteroid-sized PBHs."}
+{"instruction": "How small are the precursors detected by LIGO O5?", "input": "", "output": "The precursors are Δt_{11D}<0.1 seconds."}
+{"instruction": "What is the energy rate for damped Hawking radiation?", "input": "", "output": "Hawking radiation is damped below 10^{-15} erg/s."}
+{"instruction": "What causes polarity flips in jets observed by EHT?", "input": "", "output": "Shadows torque magnetic fields with 0.2 beta PBH fraction, causing polarity flips."}
+{"instruction": "What is the modulation energy in X-ray binaries from Hawking radiation?", "input": "", "output": "Hawking modulations are under 10^{-15} erg/s."}
+{"instruction": "What is the predicted f_PBH for JWST microlensing?", "input": "", "output": "The predicted f_PBH=0.058 for confirmations in JWST's 2026 deep fields."}
+{"instruction": "What sigma level is the muon g-2 alignment?", "input": "", "output": "The alignment is 2.5-sigma."}
+{"instruction": "What is α_ulDM for PBH waves?", "input": "", "output": "α_ulDM=0.05 for PBH waves."}
+{"instruction": "What beta value is used for clock modulations?", "input": "", "output": "0.1 beta for clock modulations."}
+{"instruction": "Why do PBHs seed flux anchors?", "input": "", "output": "Asteroid-sized PBHs seed the flux anchors while evading evaporation constraints."}
+{"instruction": "What are the constraints evaded by asteroid-sized PBHs?", "input": "", "output": "Asteroid-sized PBHs evade evaporation constraints."}
+{"instruction": "How are PBHs distinguished in gravitational waves?", "input": "", "output": "They are distinguished by sub-harmonic phasing from stellar mergers."}
+{"instruction": "What l value shows dips in CMB from PBH clusters?", "input": "", "output": "Dips at l=539.9 from PBH clusters."}
+{"instruction": "What mechanism damps Hawking radiation?", "input": "", "output": "11D leakage damps Hawking radiation below 10^{-15} erg/s."}
+{"instruction": "Where are neutron star spikes observed by EHT?", "input": "", "output": "Neutron star spikes near PBH-rich regions."}
+{"instruction": "What is the approximate evaporation time for PBHs?", "input": "", "output": "τ_evap≈10^{10} years."}
+{"instruction": "In what fields does JWST predict PBH confirmations?", "input": "", "output": "In 2026 deep fields via microlensing."}
+{"instruction": "What term represents PBH contribution to muon g-2?", "input": "", "output": "δa_μ^{-U} term."}
+{"instruction": "What do PBH waves mimic?", "input": "", "output": "They mimic Sgr A* flares."}
+{"instruction": "What clocks probe modulations at flux sub-harmonics?", "input": "", "output": "Thorium clocks probe 0.1 beta clock modulations."}
+{"instruction": "What is the dark matter percentage from PBHs?", "input": "", "output": "18% of dark matter."}
+{"instruction": "From what do PBHs form?", "input": "", "output": "From early-universe density fluctuations in negative shadows."}
+{"instruction": "What is the solar mass range for PBHs?", "input": "", "output": "10^{-9} to 10^{15} solar masses."}
+{"instruction": "Why mostly asteroid-sized PBHs?", "input": "", "output": "To evade evaporation constraints while seeding flux anchors."}
+{"instruction": "What makes PBH signatures vivid?", "input": "", "output": "They are multi-messenger signatures."}
+{"instruction": "What is the burst period for gravitational waves?", "input": "", "output": "539.9 seconds."}
+{"instruction": "When will LIGO O5 spot precursors?", "input": "", "output": "In 2026."}
+{"instruction": "What is Δt_{11D} for precursors?", "input": "", "output": "<0.1 seconds."}
+{"instruction": "What phasing distinguishes PBHs?", "input": "", "output": "Sub-harmonic phasing."}
+{"instruction": "What causes CMB dips?", "input": "", "output": "PBH clusters."}
+{"instruction": "What is f_PBH from Simons Observatory?", "input": "", "output": "0.058."}
+{"instruction": "Why no gamma-ray excesses?", "input": "", "output": "Hawking radiation damped by 11D leakage."}
+{"instruction": "What flips in M87*-like jets?", "input": "", "output": "Polarity flips."}
+{"instruction": "What is the beta PBH fraction for torquing?", "input": "", "output": "0.2 beta."}
+{"instruction": "When will XMM-Newton spot modulations?", "input": "", "output": "In 2027."}
+{"instruction": "What is τ_evap?", "input": "", "output": "≈10^{10} years."}
+{"instruction": "What limits do PBHs evade?", "input": "", "output": "Fermi-LAT limits."}
+{"instruction": "What dips in quasars?", "input": "", "output": "0.1-magnitude dips."}
+{"instruction": "When is Belle II cross-check?", "input": "", "output": "Q1 2026."}
+{"instruction": "What is the sigma alignment?", "input": "", "output": "2.5-sigma."}
+{"instruction": "What is α_ulDM?", "input": "", "output": "0.05."}
+{"instruction": "What modulations do thorium clocks probe?", "input": "", "output": "0.1 beta clock modulations."}
+{"instruction": "At what sub-harmonics are modulations probed?", "input": "", "output": "At flux sub-harmonics."}
+{"instruction": "How does the chunk describe the transformation of dark matter signatures?", "input": "", "output": "Turning dark matter's quiet pull into a symphony of signatures."}
+{"instruction": "What are the mass units for asteroid-sized PBHs?", "input": "", "output": "10^{15-17} grams."}
+{"instruction": "What orbits produce GW bursts?", "input": "", "output": "PBH orbits in halos."}
+{"instruction": "What observatory confirms f_PBH=0.058 for CMB?", "input": "", "output": "Simons Observatory in 2026."}
+{"instruction": "What leakage damps radiation?", "input": "", "output": "11D leakage."}
+{"instruction": "What regions show neutron star spikes?", "input": "", "output": "PBH-rich regions."}
+{"instruction": "What is quasi-static for PBHs?", "input": "", "output": "Evaporation at τ_evap≈10^{10} years."}
+{"instruction": "What telescope for microlensing?", "input": "", "output": "JWST in 2026 deep fields."}
+{"instruction": "What quasars show dips?", "input": "", "output": "High-z quasars."}
+{"instruction": "No new what for muon g-2 alignment?", "input": "", "output": "No new particles."}
+{"instruction": "In what galaxies do PBH waves mimic flares?", "input": "", "output": "Galaxies like the Milky Way."}
+{"instruction": "What flares are mimicked?", "input": "", "output": "Sgr A* flares."}
