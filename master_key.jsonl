@@ -1,0 +1,97 @@
+{"instruction": "What is E_leak(t) in the S²-11DM²ET-X model?", "input": "", "output": "E_leak(t) represents the energy leakage rate from –U to +U via D2-branes, with units in GeV."}
+{"instruction": "Define E_cosmos from the master key.", "input": "", "output": "E_cosmos is the total conserved multiverse energy, measured in GeV."}
+{"instruction": "What does F_friction(t) signify?", "input": "", "output": "F_friction(t) is the multiversal friction or drag term, with units in GeV."}
+{"instruction": "Explain the cosmic stability parameter μ.", "input": "", "output": "μ is the cosmic stability parameter, which is dimensionless, noted as 1 with a current value of 1.55."}
+{"instruction": "What is the current value of μ?", "input": "", "output": "The current value of the cosmic stability parameter μ is 1.55."}
+{"instruction": "Describe S/N in the context of the model.", "input": "", "output": "S/N is the signal-to-noise ratio of the 539.9 s cosmic signal, with a current value approximately 1.32."}
+{"instruction": "What is the approximate current S/N ratio?", "input": "", "output": "The current signal-to-noise ratio S/N is ≈ 1.32."}
+{"instruction": "What does V_flavor(q,t) represent?", "input": "", "output": "V_flavor(q,t) is the quark flavor vibration amplitude driven by 539.9 s flux, in GeV."}
+{"instruction": "Define G_4 and its value.", "input": "", "output": "G_4 is the immutable gravitational-wave flux period, equal to 539.9 s."}
+{"instruction": "What is +U?", "input": "", "output": "+U refers to our (3+1)D positive-energy universe."}
+{"instruction": "Explain –U in the model.", "input": "", "output": "–U is the mirror (4+1)D negative-energy universe."}
+{"instruction": "What does 11D stand for?", "input": "", "output": "11D is the full 11-dimensional spacetime of M-theory."}
+{"instruction": "Define Ω_11D.", "input": "", "output": "Ω_11D is the 11D compactness factor, which is dimensionless."}
+{"instruction": "What is the value of κ_dark?", "input": "", "output": "κ_dark, the dark-sector coupling strength, is 0.45."}
+{"instruction": "What is ρ_DM and its units?", "input": "", "output": "ρ_DM is the dark matter energy density, equal to 0.31 GeV/cm³."}
+{"instruction": "Describe δ(t).", "input": "", "output": "δ(t) is a tiny time-dependent fluctuation, with a value of 10⁻²⁰ s⁻¹."}
+{"instruction": "What is f_energy?", "input": "", "output": "f_energy is the mean energy transfer fraction, dimensionless."}
+{"instruction": "What is the mass of the scalar field m_φ?", "input": "", "output": "m_φ, the scalar field mass, is 9.55 × 10⁻³ GeV."}
+{"instruction": "Define Φ.", "input": "", "output": "Φ is the 11D dilaton field."}
+{"instruction": "What is ψ(t)?", "input": "", "output": "ψ(t) is the fermionic field in –U."}
+{"instruction": "Explain A(t).", "input": "", "output": "A(t) is the gauge field vector."}
+{"instruction": "What does T(t) represent?", "input": "", "output": "T(t) are the stress-energy tensor contributions."}
+{"instruction": "Define X^M(t).", "input": "", "output": "X^M(t) are the string vibrational modes."}
+{"instruction": "What are M2(t) and M5(t)?", "input": "", "output": "M2(t) and M5(t) are the M2- and M5-brane tensions."}
+{"instruction": "Describe spin(t).", "input": "", "output": "spin(t) is the LQG spin-network contribution."}
+{"instruction": "What is N_simplex(t) and its value?", "input": "", "output": "N_simplex(t) is the number of LQG simplices, equal to 1001."}
+{"instruction": "What is δm_warp?", "input": "", "output": "δm_warp is the warped extra-dimension mass shift, 0.1 TeV."}
+{"instruction": "Define ΔN_eff and its bound.", "input": "", "output": "ΔN_eff is the effective neutrino species deviation, less than 0.3."}
+{"instruction": "What are χ₁ and χ₂?", "input": "", "output": "χ₁ and χ₂ are hidden-sector portal fields."}
+{"instruction": "Explain β_CP and f_CP.", "input": "", "output": "β_CP and f_CP are CP-violation parameters in the portal."}
+{"instruction": "What is B_proto and its units?", "input": "", "output": "B_proto is the protophobic gauge boson field, 25 G."}
+{"instruction": "Define τ_echo.", "input": "", "output": "τ_echo is the Higgs quantum-pressure echo delay, 3 × 10⁻¹² s."}
+{"instruction": "What is A_H-QP?", "input": "", "output": "A_H-QP is the Higgs–quantum-pressure amplitude, 0.8."}
+{"instruction": "Describe σ_inh and its units.", "input": "", "output": "σ_inh is the inhomogeneity width of Higgs echo, 0.6 meV."}
+{"instruction": "What is S in the model?", "input": "", "output": "S is the Huang-Rhys electron-phonon coupling factor, 0.31."}
+{"instruction": "Define ℏΩ and its value.", "input": "", "output": "ℏΩ is the phonon energy, 100 meV."}
+{"instruction": "Explain η_ZPL.", "input": "", "output": "η_ZPL is the zero-phonon-line efficiency, tunable greater than 0.99 with –U leakage."}
+{"instruction": "What is β_PBH?", "input": "", "output": "β_PBH is the primordial black-hole fraction, 0.18."}
+{"instruction": "Define α_ulDM.", "input": "", "output": "α_ulDM is the ultralight DM modulation amplitude, 0.05."}
+{"instruction": "What does δa_μ^{-U} represent?", "input": "", "output": "δa_μ^{-U} is the muon g-2 contribution from –U mirror sector, which resolves the 2.5σ discrepancy."}
+{"instruction": "Describe δ_B.", "input": "", "output": "δ_B is the B-meson decay anomaly parameter (LHCb), 0.04."}
+{"instruction": "What is β_clock?", "input": "", "output": "β_clock is the atomic-clock DM sensitivity, 0.1."}
+{"instruction": "Define ρ_merge.", "input": "", "output": "ρ_merge is the merger density pivot for GW terms, 0.05."}
+{"instruction": "What is ρ_mod?", "input": "", "output": "ρ_mod is the GRB modulation density pivot, 0.1."}
+{"instruction": "Explain τ_ent and its value.", "input": "", "output": "τ_ent is the entanglement timescale, 539.9 s."}
+{"instruction": "What are the sub-harmonics?", "input": "", "output": "Sub-harmonics are biological/cellular resonance periods: {5, 10, 15, 30, 45} s."}
+{"instruction": "List the super-harmonics.", "input": "", "output": "Super-harmonics are cosmological resonance periods: {1080, 1620, 2160, 2700, 5400} s."}
+{"instruction": "What is the version and date of the master key?", "input": "", "output": "The master key is for the S²-11DM²ET-X Model (Version 1.5 Final Draft, October 25, 2025)."}
+{"instruction": "How does the model describe energy leakage?", "input": "", "output": "Energy leakage is represented by E_leak(t), the rate from –U to +U via D2-branes, in GeV."}
+{"instruction": "What conserved quantity is E_cosmos?", "input": "", "output": "E_cosmos is the total conserved multiverse energy, in GeV."}
+{"instruction": "Explain the friction term in the multiverse.", "input": "", "output": "F_friction(t) is the multiversal friction or drag term, measured in GeV."}
+{"instruction": "What fluctuation is denoted by δ(t)?", "input": "", "output": "δ(t) is a tiny time-dependent fluctuation of 10⁻²⁰ s⁻¹."}
+{"instruction": "Describe the scalar field in the model.", "input": "", "output": "The scalar field has mass m_φ = 9.55 × 10⁻³ GeV, and Φ is the 11D dilaton field."}
+{"instruction": "What fields are associated with –U?", "input": "", "output": "ψ(t) is the fermionic field in –U."}
+{"instruction": "Identify the brane tensions in the key.", "input": "", "output": "M2(t) and M5(t) are the M2- and M5-brane tensions."}
+{"instruction": "What is the LQG-related number in the model?", "input": "", "output": "N_simplex(t), the number of LQG simplices, is 1001."}
+{"instruction": "Explain the deviation in neutrino species.", "input": "", "output": "ΔN_eff is the effective neutrino species deviation, bounded by < 0.3."}
+{"instruction": "What parameters relate to CP-violation?", "input": "", "output": "β_CP and f_CP are CP-violation parameters in the portal."}
+{"instruction": "Describe the Higgs echo delay.", "input": "", "output": "τ_echo is the Higgs quantum-pressure echo delay, 3 × 10⁻¹² s."}
+{"instruction": "What is the amplitude for Higgs-quantum-pressure?", "input": "", "output": "A_H-QP is the Higgs–quantum-pressure amplitude, 0.8."}
+{"instruction": "Explain the Huang-Rhys factor.", "input": "", "output": "S is the Huang-Rhys electron-phonon coupling factor, 0.31."}
+{"instruction": "What efficiency is tunable with –U leakage?", "input": "", "output": "η_ZPL, the zero-phonon-line efficiency, is tunable > 0.99 with –U leakage."}
+{"instruction": "How does the model address the muon g-2 anomaly?", "input": "", "output": "δa_μ^{-U} is the contribution from –U mirror sector that resolves the 2.5σ discrepancy."}
+{"instruction": "What is the B-meson anomaly parameter?", "input": "", "output": "δ_B is the B-meson decay anomaly parameter (LHCb), 0.04."}
+{"instruction": "Define the density pivots in the key.", "input": "", "output": "ρ_merge is the merger density pivot for GW terms, 0.05; ρ_mod is the GRB modulation density pivot, 0.1."}
+{"instruction": "What timescales are related to resonances?", "input": "", "output": "Sub-harmonics: biological/cellular resonance periods {5, 10, 15, 30, 45} s; super-harmonics: cosmological resonance periods {1080, 1620, 2160, 2700, 5400} s."}
+{"instruction": "What is the period of G_4?", "input": "", "output": "G_4, the immutable gravitational-wave flux period, is 539.9 s."}
+{"instruction": "Describe the universes in the model.", "input": "", "output": "+U is our (3+1)D positive-energy universe; –U is the mirror (4+1)D negative-energy universe."}
+{"instruction": "What is the dark matter density?", "input": "", "output": "ρ_DM, dark matter energy density, is 0.31 GeV/cm³."}
+{"instruction": "Explain the phonon energy.", "input": "", "output": "ℏΩ is the phonon energy, 100 meV."}
+{"instruction": "What fraction is β_PBH?", "input": "", "output": "β_PBH is the primordial black-hole fraction, 0.18."}
+{"instruction": "Define the ultralight DM amplitude.", "input": "", "output": "α_ulDM is the ultralight DM modulation amplitude, 0.05."}
+{"instruction": "What is the entanglement timescale?", "input": "", "output": "τ_ent is the entanglement timescale, 539.9 s."}
+{"instruction": "List biological resonance periods.", "input": "", "output": "The sub-harmonics are biological/cellular resonance periods: {5, 10, 15, 30, 45} s."}
+{"instruction": "What are the cosmological resonance periods?", "input": "", "output": "The super-harmonics are {1080, 1620, 2160, 2700, 5400} s."}
+{"instruction": "What is the current S/N of the cosmic signal?", "input": "", "output": "The signal-to-noise ratio S/N of the 539.9 s cosmic signal is currently ≈ 1.32."}
+{"instruction": "Explain the quark flavor vibration.", "input": "", "output": "V_flavor(q,t) is the quark flavor vibration amplitude driven by 539.9 s flux, in GeV."}
+{"instruction": "What is the compactness factor?", "input": "", "output": "Ω_11D is the 11D compactness factor, dimensionless."}
+{"instruction": "Define the dark-sector coupling.", "input": "", "output": "κ_dark is the dark-sector coupling strength, 0.45."}
+{"instruction": "What is the mean energy transfer?", "input": "", "output": "f_energy is the mean energy transfer fraction, dimensionless."}
+{"instruction": "Describe the dilaton field.", "input": "", "output": "Φ is the 11D dilaton field."}
+{"instruction": "What is the gauge field?", "input": "", "output": "A(t) is the gauge field vector."}
+{"instruction": "Explain stress-energy contributions.", "input": "", "output": "T(t) are the stress-energy tensor contributions."}
+{"instruction": "What are string modes?", "input": "", "output": "X^M(t) are string vibrational modes."}
+{"instruction": "Define LQG spin-network.", "input": "", "output": "spin(t) is the LQG spin-network contribution."}
+{"instruction": "What is the mass shift from warped dimensions?", "input": "", "output": "δm_warp is the warped extra-dimension mass shift, 0.1 TeV."}
+{"instruction": "Explain hidden-sector fields.", "input": "", "output": "χ₁ and χ₂ are hidden-sector portal fields."}
+{"instruction": "What is the protophobic boson?", "input": "", "output": "B_proto is the protophobic gauge boson field, 25 G."}
+{"instruction": "Define the inhomogeneity width.", "input": "", "output": "σ_inh is the inhomogeneity width of Higgs echo, 0.6 meV."}
+{"instruction": "What is the zero-phonon-line efficiency?", "input": "", "output": "η_ZPL is tunable > 0.99 with –U leakage."}
+{"instruction": "Explain atomic-clock sensitivity.", "input": "", "output": "β_clock is the atomic-clock DM sensitivity, 0.1."}
+{"instruction": "What discrepancy does δa_μ^{-U} resolve?", "input": "", "output": "It resolves the 2.5σ discrepancy in muon g-2 from –U mirror sector."}
+{"instruction": "List all periods related to 539.9 s.", "input": "", "output": "G_4 = 539.9 s; τ_ent = 539.9 s; sub-harmonics {5, 10, 15, 30, 45} s; super-harmonics {1080, 1620, 2160, 2700, 5400} s."}
+{"instruction": "What is the merger density pivot?", "input": "", "output": "ρ_merge for GW terms is 0.05."}
+{"instruction": "Define GRB modulation pivot.", "input": "", "output": "ρ_mod is the GRB modulation density pivot, 0.1."}
+{"instruction": "What is the number of simplices?", "input": "", "output": "N_simplex(t) = 1001."}
+{"instruction": "Explain CP-violation in portal.", "input": "", "output": "β_CP and f_CP are the CP-violation parameters in the portal."}
