@@ -1,0 +1,97 @@
+{"instruction": "What is the value of k_neural?", "input": "", "output": "k_neural = 1.0"}
+{"instruction": "Provide the definition of γ_neural.", "input": "", "output": "γ_neural = 0.95"}
+{"instruction": "What does μ_manuscript equal?", "input": "", "output": "μ_manuscript = 1.55"}
+{"instruction": "State the value for S/N_manuscript.", "input": "", "output": "S/N_manuscript = 1.3196"}
+{"instruction": "What is the cost value listed under Neural / Manuscript?", "input": "", "output": "cost = 0.1975"}
+{"instruction": "What is G_4, the immutable gravitational-wave flux period?", "input": "", "output": "G_4 = 539.9 s"}
+{"instruction": "Provide the value of -Λ.", "input": "", "output": "-Λ = -5.6 × 10⁸ J/m³"}
+{"instruction": "How many wormholes are there per galaxy according to N_worm?", "input": "", "output": "N_worm = 10¹⁷ per galaxy"}
+{"instruction": "List the sub-harmonics in seconds.", "input": "", "output": "sub-harmonics = {5, 10, 15, 30, 45} s"}
+{"instruction": "What are the super-harmonics provided?", "input": "", "output": "super-harmonics = {1080, 1620, 2160, 2700, 5400} s"}
+{"instruction": "State the efficiency η_conv.", "input": "", "output": "η_conv = 0.95"}
+{"instruction": "What is η_gas?", "input": "", "output": "η_gas = 0.9"}
+{"instruction": "Provide the value for η_evap.", "input": "", "output": "η_evap = 0.1"}
+{"instruction": "What does η_phase equal?", "input": "", "output": "η_phase = 0.99"}
+{"instruction": "What is the upper bound for γ_lens?", "input": "", "output": "γ_lens < 0.001"}
+{"instruction": "State δm_warp in TeV.", "input": "", "output": "δm_warp = 0.1 TeV"}
+{"instruction": "What is the value of η in eV?", "input": "", "output": "η = 0.1 eV"}
+{"instruction": "Provide τ_ent in seconds.", "input": "", "output": "τ_ent = 539.9 s"}
+{"instruction": "What is the mass of the up quark m_u in MeV/c²?", "input": "", "output": "m_u = 2.3"}
+{"instruction": "State the mass of the down quark m_d.", "input": "", "output": "m_d = 4.8 MeV/c²"}
+{"instruction": "What is m_s, the strange quark mass?", "input": "", "output": "m_s = 95 MeV/c²"}
+{"instruction": "Provide the charm quark mass m_c.", "input": "", "output": "m_c = 1275 MeV/c²"}
+{"instruction": "What is the bottom quark mass m_b?", "input": "", "output": "m_b = 4180 MeV/c²"}
+{"instruction": "State the top quark mass m_t in MeV/c².", "input": "", "output": "m_t = 173210"}
+{"instruction": "Under Neural / Manuscript, what is k_neural?", "input": "", "output": "k_neural = 1.0"}
+{"instruction": "What value is assigned to γ_neural in the list?", "input": "", "output": "γ_neural = 0.95"}
+{"instruction": "Recall the value of μ_manuscript.", "input": "", "output": "μ_manuscript = 1.55"}
+{"instruction": "What is S/N_manuscript equal to?", "input": "", "output": "S/N_manuscript = 1.3196"}
+{"instruction": "Provide the cost under Neural / Manuscript.", "input": "", "output": "cost = 0.1975"}
+{"instruction": "What is the immutable gravitational-wave flux period G_4?", "input": "", "output": "G_4 = 539.9 s"}
+{"instruction": "State the cosmological constant term -Λ.", "input": "", "output": "-Λ = -5.6 × 10⁸ J/m³"}
+{"instruction": "How many are there per galaxy for N_worm?", "input": "", "output": "N_worm = 10¹⁷ per galaxy"}
+{"instruction": "Enumerate the sub-harmonics.", "input": "", "output": "sub-harmonics = {5, 10, 15, 30, 45} s"}
+{"instruction": "List the super-harmonics in seconds.", "input": "", "output": "super-harmonics = {1080, 1620, 2160, 2700, 5400} s"}
+{"instruction": "What efficiency is η_conv?", "input": "", "output": "η_conv = 0.95"}
+{"instruction": "Provide η_gas value.", "input": "", "output": "η_gas = 0.9"}
+{"instruction": "What is η_evap?", "input": "", "output": "η_evap = 0.1"}
+{"instruction": "State η_phase.", "input": "", "output": "η_phase = 0.99"}
+{"instruction": "What inequality holds for γ_lens?", "input": "", "output": "γ_lens < 0.001"}
+{"instruction": "Provide δm_warp.", "input": "", "output": "δm_warp = 0.1 TeV"}
+{"instruction": "What is η equal to?", "input": "", "output": "η = 0.1 eV"}
+{"instruction": "Recall τ_ent.", "input": "", "output": "τ_ent = 539.9 s"}
+{"instruction": "What is m_u?", "input": "", "output": "m_u = 2.3 MeV/c²"}
+{"instruction": "State m_d in MeV/c².", "input": "", "output": "m_d = 4.8"}
+{"instruction": "Provide the value for m_s.", "input": "", "output": "m_s = 95 MeV/c²"}
+{"instruction": "What is m_c?", "input": "", "output": "m_c = 1275 MeV/c²"}
+{"instruction": "Recall m_b.", "input": "", "output": "m_b = 4180 MeV/c²"}
+{"instruction": "What is m_t in MeV/c²?", "input": "", "output": "m_t = 173210"}
+{"instruction": "Which constant under Neural / Manuscript is 1.0?", "input": "", "output": "k_neural = 1.0"}
+{"instruction": "Identify the value 0.95 in Neural / Manuscript.", "input": "", "output": "γ_neural = 0.95"}
+{"instruction": "What parameter is 1.55?", "input": "", "output": "μ_manuscript = 1.55"}
+{"instruction": "Which S/N is 1.3196?", "input": "", "output": "S/N_manuscript = 1.3196"}
+{"instruction": "What is the cost value?", "input": "", "output": "cost = 0.1975"}
+{"instruction": "What period is 539.9 s?", "input": "", "output": "G_4 = 539.9 s (immutable gravitational-wave flux period)"}
+{"instruction": "Provide the energy density -Λ.", "input": "", "output": "-Λ = -5.6 × 10⁸ J/m³"}
+{"instruction": "How many wormholes per galaxy?", "input": "", "output": "N_worm = 10¹⁷ per galaxy"}
+{"instruction": "What are the listed sub-harmonics?", "input": "", "output": "sub-harmonics = {5, 10, 15, 30, 45} s"}
+{"instruction": "Enumerate super-harmonics.", "input": "", "output": "super-harmonics = {1080, 1620, 2160, 2700, 5400} s"}
+{"instruction": "What is the conversion efficiency η_conv?", "input": "", "output": "η_conv = 0.95"}
+{"instruction": "State the gas efficiency.", "input": "", "output": "η_gas = 0.9"}
+{"instruction": "Provide evaporation efficiency.", "input": "", "output": "η_evap = 0.1"}
+{"instruction": "What is phase efficiency η_phase?", "input": "", "output": "η_phase = 0.99"}
+{"instruction": "What is the bound on γ_lens?", "input": "", "output": "γ_lens < 0.001"}
+{"instruction": "State the warp mass shift.", "input": "", "output": "δm_warp = 0.1 TeV"}
+{"instruction": "What energy is η?", "input": "", "output": "η = 0.1 eV"}
+{"instruction": "Provide the entanglement time.", "input": "", "output": "τ_ent = 539.9 s"}
+{"instruction": "Mass of up quark?", "input": "", "output": "m_u = 2.3 MeV/c²"}
+{"instruction": "Down quark mass in MeV/c²?", "input": "", "output": "m_d = 4.8"}
+{"instruction": "Strange quark m_s?", "input": "", "output": "m_s = 95 MeV/c²"}
+{"instruction": "Charm quark mass?", "input": "", "output": "m_c = 1275 MeV/c²"}
+{"instruction": "Bottom quark m_b?", "input": "", "output": "m_b = 4180 MeV/c²"}
+{"instruction": "Top quark mass m_t?", "input": "", "output": "m_t = 173210 MeV/c²"}
+{"instruction": "How many sub-harmonics are listed?", "input": "", "output": "There are 5 sub-harmonics: {5, 10, 15, 30, 45} s"}
+{"instruction": "Count the super-harmonics.", "input": "", "output": "There are 5 super-harmonics: {1080, 1620, 2160, 2700, 5400} s"}
+{"instruction": "List all quark masses in order from lightest to heaviest.", "input": "", "output": "m_u = 2.3, m_d = 4.8, m_s = 95, m_c = 1275, m_b = 4180, m_t = 173210 (all in MeV/c²)"}
+{"instruction": "Which quark has the smallest mass?", "input": "", "output": "The up quark m_u = 2.3 MeV/c²"}
+{"instruction": "Identify the heaviest quark.", "input": "", "output": "The top quark m_t = 173210 MeV/c²"}
+{"instruction": "What is the ratio of m_d to m_u?", "input": "", "output": "m_d / m_u = 4.8 / 2.3 ≈ 2.087. To calculate: divide 4.8 by 2.3."}
+{"instruction": "Calculate the sum of light quark masses m_u + m_d + m_s.", "input": "", "output": "m_u + m_d + m_s = 2.3 + 4.8 + 95 = 102.1 MeV/c². Step-by-step: 2.3 + 4.8 = 7.1, then 7.1 + 95 = 102.1."}
+{"instruction": "What is the difference between m_t and m_b?", "input": "", "output": "m_t - m_b = 173210 - 4180 = 169030 MeV/c². Subtract 4180 from 173210."}
+{"instruction": "Are G_4 and τ_ent equal?", "input": "", "output": "Yes, both G_4 and τ_ent are 539.9 s."}
+{"instruction": "Compare η_conv and γ_neural.", "input": "", "output": "η_conv = 0.95 and γ_neural = 0.95, so they are equal."}
+{"instruction": "What is the product of η_gas and η_evap?", "input": "", "output": "η_gas * η_evap = 0.9 * 0.1 = 0.09. Multiply 0.9 by 0.1."}
+{"instruction": "List all efficiencies starting with η.", "input": "", "output": "η_conv = 0.95, η_gas = 0.9, η_evap = 0.1, η_phase = 0.99, η = 0.1 eV"}
+{"instruction": "What units are used for quark masses?", "input": "", "output": "Quark masses are in MeV/c²."}
+{"instruction": "Provide the units for G_4.", "input": "", "output": "G_4 = 539.9 s"}
+{"instruction": "What is the unit for -Λ?", "input": "", "output": "-Λ = -5.6 × 10⁸ J/m³"}
+{"instruction": "How is N_worm specified?", "input": "", "output": "N_worm = 10¹⁷ per galaxy"}
+{"instruction": "What are the units for sub-harmonics?", "input": "", "output": "sub-harmonics = {5, 10, 15, 30, 45} s"}
+{"instruction": "State the units for δm_warp.", "input": "", "output": "δm_warp = 0.1 TeV"}
+{"instruction": "What unit is η in?", "input": "", "output": "η = 0.1 eV"}
+{"instruction": "Identify constants equal to 0.95.", "input": "", "output": "γ_neural = 0.95, η_conv = 0.95"}
+{"instruction": "Which values are less than 1?", "input": "", "output": "Many, including γ_neural = 0.95, cost = 0.1975, η_gas = 0.9, η_evap = 0.1, η_phase = 0.99, γ_lens < 0.001, etc."}
+{"instruction": "What is the largest super-harmonic?", "input": "", "output": "The largest super-harmonic is 5400 s."}
+{"instruction": "Find the smallest sub-harmonic.", "input": "", "output": "The smallest sub-harmonic is 5 s."}
+{"instruction": "Is m_c greater than m_s?", "input": "", "output": "Yes, m_c = 1275 > m_s = 95 MeV/c²."}
+{"instruction": "Calculate m_b / m_c approximately.", "input": "", "output": "m_b / m_c = 4180 / 1275 ≈ 3.278. Divide 4180 by 1275: 1275 * 3 = 3825, remainder 355, so ≈3.278."}
