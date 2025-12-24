@@ -1,0 +1,70 @@
+{"instruction": "What is the value of E₀ in the E_leak constants?", "input": "", "output": "E_0 = 10^{-7} \\, \\text{GeV}"}
+{"instruction": "What is the value of κ_dark in the E_leak constants?", "input": "", "output": "κ_dark = 0.45"}
+{"instruction": "What is the value of δ(t) in the E_leak constants?", "input": "", "output": "δ(t) = 10^{-20} \\, \\text{s}^{-1}"}
+{"instruction": "What is the value of v₀ in the E_leak constants?", "input": "", "output": "v_0 = 3 \\times 10^{8} \\, \\text{m/s}"}
+{"instruction": "What is the value of ρ_DM in the E_leak constants?", "input": "", "output": "ρ_DM = 0.31 \\, \\text{GeV/cm}^{3}"}
+{"instruction": "What is the value of m_φ in the E_leak constants?", "input": "", "output": "m_φ = 9.55 \\times 10^{-3} \\, \\text{GeV}"}
+{"instruction": "What is the value of λ_field in the E_leak constants?", "input": "", "output": "λ_field = 9.60 \\times 10^{-3}"}
+{"instruction": "What is the value of g_coupling in the E_leak constants?", "input": "", "output": "g_coupling = 4.75 \\times 10^{-3}"}
+{"instruction": "What is the value of h_coupling in the E_leak constants?", "input": "", "output": "h_coupling = 1.94 \\times 10^{-3}"}
+{"instruction": "What is the value of e_gauge in the E_leak constants?", "input": "", "output": "e_gauge = 9.70 \\times 10^{-3}"}
+{"instruction": "What is the value of m_ψ in the E_leak constants?", "input": "", "output": "m_ψ = 9.65 \\times 10^{-4} \\, \\text{GeV}"}
+{"instruction": "What is the value of g_Y in the E_leak constants?", "input": "", "output": "g_Y = 4.80 \\times 10^{-3}"}
+{"instruction": "What is the value of R_compact in the E_leak constants?", "input": "", "output": "R_compact = 9.75 \\times 10^{-4} \\, \\text{m}"}
+{"instruction": "What is the value of g_{11} in the E_leak constants?", "input": "", "output": "g_{11} = 9.70 \\times 10^{-3}"}
+{"instruction": "What is the value of α′ in the E_leak constants?", "input": "", "output": "α' = 9.80 \\times 10^{-36} \\, \\text{m}^{2}"}
+{"instruction": "What is the value of T_brane in the E_leak constants?", "input": "", "output": "T_brane = 9.75 \\times 10^{-11} \\, \\text{N}"}
+{"instruction": "What is the value of g_s in the E_leak constants?", "input": "", "output": "g_s = 9.80 \\times 10^{-3}"}
+{"instruction": "What is the value of T_M2 in the E_leak constants?", "input": "", "output": "T_M2 = 9.75 \\times 10^{-12} \\, \\text{N}"}
+{"instruction": "What is the value of T_M5 in the E_leak constants?", "input": "", "output": "T_M5 = 9.80 \\times 10^{-13} \\, \\text{N}"}
+{"instruction": "What is the value of g_M in the E_leak constants?", "input": "", "output": "g_M = 9.85 \\times 10^{-3}"}
+{"instruction": "What is the value of γ_LQG in the E_leak constants?", "input": "", "output": "γ_LQG = 0.10"}
+{"instruction": "What is the value of g_μ in the E_leak constants?", "input": "", "output": "g_μ = 9.85 \\times 10^{-3}"}
+{"instruction": "What is the value of N_simplex in the E_leak constants?", "input": "", "output": "N_simplex = 1001"}
+{"instruction": "What is the value of τ⁻ in the E_leak constants?", "input": "", "output": "τ^- = 3.17 \\times 10^{-6} \\, \\text{s}"}
+{"instruction": "What is the value of L in the E_leak constants?", "input": "", "output": "L = 655 \\, \\text{fb}^{-1}"}
+{"instruction": "What is the value of λ_inst in the E_leak constants?", "input": "", "output": "λ_inst = 0.25"}
+{"instruction": "What is the value of σ_U in the E_leak constants?", "input": "", "output": "σ_U = 0.3"}
+{"instruction": "What is the value of ε_ax in the E_leak constants?", "input": "", "output": "ε_ax = 0.06"}
+{"instruction": "What is the value of β_chir in the E_leak constants?", "input": "", "output": "β_chir = 0.18"}
+{"instruction": "What is the value of θ_subGeV in the E_leak constants?", "input": "", "output": "θ_subGeV = 0.12"}
+{"instruction": "What is the value of ω_had in the E_leak constants?", "input": "", "output": "ω_had = 0.08"}
+{"instruction": "What is the value of ι_Kohn in the E_leak constants?", "input": "", "output": "ι_Kohn = 0.09"}
+{"instruction": "What is the value of π_multi in the E_leak constants?", "input": "", "output": "π_multi = 0.07"}
+{"instruction": "What is the value of ν_res in the E_leak constants?", "input": "", "output": "ν_res = 0.04"}
+{"instruction": "What is the value of ζ_Kondo in the E_leak constants?", "input": "", "output": "ζ_Kondo = 0.15"}
+{"instruction": "What is the value of α_DPS in the E_leak constants?", "input": "", "output": "α_DPS = 1.02"}
+{"instruction": "What is the value of α_res in the E_leak constants?", "input": "", "output": "α_res = 0.1"}
+{"instruction": "What is the value of γ_rad in the E_leak constants?", "input": "", "output": "γ_rad = 0.02"}
+{"instruction": "What is the value of g_portal in the E_leak constants?", "input": "", "output": "g_portal = 0.005"}
+{"instruction": "What are the units of E_0?", "input": "", "output": "GeV"}
+{"instruction": "What are the units of δ(t)?", "input": "", "output": "s^{-1}"}
+{"instruction": "What are the units of v_0?", "input": "", "output": "m/s"}
+{"instruction": "What are the units of ρ_DM?", "input": "", "output": "GeV/cm³"}
+{"instruction": "What are the units of m_φ?", "input": "", "output": "GeV"}
+{"instruction": "What are the units of m_ψ?", "input": "", "output": "GeV"}
+{"instruction": "What are the units of R_compact?", "input": "", "output": "m"}
+{"instruction": "What are the units of α′?", "input": "", "output": "m²"}
+{"instruction": "What are the units of T_brane?", "input": "", "output": "N"}
+{"instruction": "What are the units of T_M2?", "input": "", "output": "N"}
+{"instruction": "What are the units of T_M5?", "input": "", "output": "N"}
+{"instruction": "What are the units of τ⁻?", "input": "", "output": "s"}
+{"instruction": "What are the units of L?", "input": "", "output": "fb^{-1}"}
+{"instruction": "How many constants are listed under E_leak constants?", "input": "", "output": "39"}
+{"instruction": "Which E_leak constants have units involving GeV?", "input": "", "output": "E_0, ρ_DM, m_φ, m_ψ"}
+{"instruction": "Which E_leak constants have units involving N?", "input": "", "output": "T_brane, T_M2, T_M5"}
+{"instruction": "Which E_leak constant has the largest numerical value?", "input": "", "output": "N_simplex = 1001"}
+{"instruction": "Which E_leak constant has the smallest numerical value ignoring exponents?", "input": "", "output": "ν_res = 0.04"}
+{"instruction": "List all E_leak constants with values around 9.8 × 10^{-3}.", "input": "", "output": "g_s = 9.80 × 10^{-3}, g_M = 9.85 × 10^{-3}, g_μ = 9.85 × 10^{-3}"}
+{"instruction": "What is the value of the dark matter related constant κ_dark?", "input": "", "output": "κ_dark = 0.45"}
+{"instruction": "What constant represents the compactification radius?", "input": "", "output": "R_compact = 9.75 × 10^{-4} m"}
+{"instruction": "What is the string coupling constant g_s?", "input": "", "output": "g_s = 9.80 × 10^{-3}"}
+{"instruction": "What is the value of the axion-related parameter ε_ax?", "input": "", "output": "ε_ax = 0.06"}
+{"instruction": "Which constant is associated with double parton scattering α_DPS?", "input": "", "output": "α_DPS = 1.02"}
+{"instruction": "What is the portal coupling g_portal?", "input": "", "output": "g_portal = 0.005"}
+{"instruction": "What is the integrated luminosity value L?", "input": "", "output": "L = 655 fb^{-1}"}
+{"instruction": "What constant has the value 1001?", "input": "", "output": "N_simplex = 1001"}
+{"instruction": "Which constants appear to be dimensionless in the E_leak list?", "input": "", "output": "All constants without explicit units: κ_dark, λ_field, g_coupling, h_coupling, e_gauge, g_Y, g_{11}, g_s, g_M, γ_LQG, g_μ, λ_inst, σ_U, ε_ax, β_chir, θ_subGeV, ω_had, ι_Kohn, π_multi, ν_res, ζ_Kondo, α_DPS, α_res, γ_rad, g_portal"}
+{"instruction": "What is the mantissa and exponent for α′?", "input": "", "output": "Mantissa 9.80, exponent -36, units m²"}
+{"instruction": "Compare the values of T_brane and T_M5.", "input": "", "output": "T_brane = 9.75 × 10^{-11} N, T_M5 = 9.80 × 10^{-13} N; T_brane is larger by two orders of magnitude."}
+{"instruction": "What is the value of the loop quantum gravity parameter?", "input": "", "output": "γ_LQG = 0.10"}
