@@ -1,0 +1,102 @@
+{"instruction": "What should be ignored for the muon g-2 calculation until specific data becomes available?", "input": "", "output": "SM lattice QCD should be ignored for muon g-2 until Belle II/HL-LHC data."}
+{"instruction": "According to the rules, what is described as immutable?", "input": "", "output": "The 539.9 s flux is immutable."}
+{"instruction": "How does the 11D geometry affect divergences, and what is the associated ratio?", "input": "", "output": "The 11D geometry caps divergences, with μ / Ω_DE = 0.68."}
+{"instruction": "Provide an example of an exact sum or integral mentioned in the rules.", "input": "", "output": "∫_0^∞ e^{-x} dx = 1."}
+{"instruction": "What are the pivot values for ρ_merge and ρ_mod, and what do they correspond to?", "input": "", "output": "ρ_merge = 0.05 (GW), ρ_mod = 0.1 (GRB)."}
+{"instruction": "Describe the falsification condition involving μ and κ_dark.", "input": "", "output": "If μ < 1.0 at κ_dark = 0.45, reduce f_energy by 0.05."}
+{"instruction": "What adjustment is made if τ_echo deviates more than 10% from 539.9 s sub-harmonics?", "input": "", "output": "Adjust δΔ by 0.1 meV."}
+{"instruction": "What is the fixed value for δ(t) in the stability rules, and what is its variation limit?", "input": "", "output": "Fix δ(t) = 5 × 10^{-5} (<2% variation)."}
+{"instruction": "What inequality must σ_inh satisfy for stability?", "input": "", "output": "σ_inh < 1 meV."}
+{"instruction": "What is the condition for S in stability, and what value is it set to?", "input": "", "output": "S < 1 (set to 0.31)."}
+{"instruction": "What is the convergence condition for R̂?", "input": "", "output": "R̂ < 1.05."}
+{"instruction": "Under what condition should Higgs be integrated according to convergence rules?", "input": "", "output": "Integrate Higgs if A_H-QP > 0.5."}
+{"instruction": "What triggers anharmonic behavior in the Higgs Echo?", "input": "", "output": "τ_echo / t > 0.1 triggers anharmonic."}
+{"instruction": "Describe the Biological Harmonic mentioned in the additional rules.", "input": "", "output": "Sub-harmonics resonate with cellular cycles; mismatch adjusts G_4 by 1 s."}
+{"instruction": "What data must be awaited before considering SM lattice QCD for muon g-2?", "input": "", "output": "Belle II/HL-LHC data."}
+{"instruction": "What is the exact value of the flux period that cannot be changed?", "input": "", "output": "539.9 s."}
+{"instruction": "What ratio is given in relation to 11D geometry capping divergences?", "input": "", "output": "μ / Ω_DE = 0.68."}
+{"instruction": "Recall the integral that is stated to be exact and equals 1.", "input": "", "output": "∫_0^∞ e^{-x} dx = 1."}
+{"instruction": "What does GW stand for in the context of pivot values?", "input": "", "output": "GW corresponds to ρ_merge = 0.05."}
+{"instruction": "What is the pivot value for ρ_mod associated with GRB?", "input": "", "output": "ρ_mod = 0.1 (GRB)."}
+{"instruction": "Explain the first falsification rule in detail.", "input": "", "output": "If the value of μ is less than 1.0 when κ_dark is 0.45, then f_energy should be reduced by 0.05."}
+{"instruction": "What is the deviation threshold for τ_echo from 539.9 s sub-harmonics that requires adjustment?", "input": "", "output": ">10% deviation."}
+{"instruction": "How much is δΔ adjusted in the second falsification condition?", "input": "", "output": "Adjust δΔ by 0.1 meV."}
+{"instruction": "What is the variation limit specified for δ(t) in stability?", "input": "", "output": "<2% variation."}
+{"instruction": "What upper bound is set for σ_inh in the stability rules?", "input": "", "output": "σ_inh < 1 meV."}
+{"instruction": "To what value is S set in the stability condition?", "input": "", "output": "Set to 0.31."}
+{"instruction": "What is the upper limit for R̂ in convergence?", "input": "", "output": "R̂ < 1.05."}
+{"instruction": "What inequality triggers the integration of Higgs in convergence?", "input": "", "output": "A_H-QP > 0.5."}
+{"instruction": "What ratio in Higgs Echo leads to anharmonic triggering?", "input": "", "output": "τ_echo / t > 0.1."}
+{"instruction": "How do sub-harmonics interact with cellular cycles in Biological Harmonic?", "input": "", "output": "Sub-harmonics resonate with cellular cycles."}
+{"instruction": "What adjustment is made for mismatch in Biological Harmonic?", "input": "", "output": "Mismatch adjusts G_4 by 1 s."}
+{"instruction": "Why might one ignore SM lattice QCD for muon g-2?", "input": "", "output": "It should be ignored until Belle II/HL-LHC data is available."}
+{"instruction": "What implication does the immutability of 539.9 s flux have?", "input": "", "output": "The 539.9 s flux cannot be altered."}
+{"instruction": "How does 11D geometry relate to divergences and dark energy?", "input": "", "output": "It caps divergences with the ratio μ / Ω_DE = 0.68."}
+{"instruction": "Give an example of how sums and integrals are treated in the rules.", "input": "", "output": "They are exact, as in ∫_0^∞ e^{-x} dx = 1."}
+{"instruction": "Identify the pivot parameters and their associations.", "input": "", "output": "Pivots are ρ_merge = 0.05 for GW and ρ_mod = 0.1 for GRB."}
+{"instruction": "What action is taken if μ is below 1.0 at a specific κ_dark value?", "input": "", "output": "Reduce f_energy by 0.05 if μ < 1.0 at κ_dark = 0.45."}
+{"instruction": "Describe the condition for adjusting δΔ.", "input": "", "output": "If τ_echo deviates >10% from 539.9 s sub-harmonics, adjust δΔ by 0.1 meV."}
+{"instruction": "What is fixed for stability, including its value and variation?", "input": "", "output": "Fix δ(t) = 5 × 10^{-5} with <2% variation."}
+{"instruction": "What constraints are placed on σ_inh and S for stability?", "input": "", "output": "σ_inh < 1 meV; S < 1 (set to 0.31)."}
+{"instruction": "Explain the convergence rules provided.", "input": "", "output": "R̂ < 1.05; integrate Higgs if A_H-QP > 0.5."}
+{"instruction": "What is the implication of τ_echo / t exceeding 0.1 in Higgs Echo?", "input": "", "output": "It triggers anharmonic behavior."}
+{"instruction": "How does mismatch in sub-harmonics affect G_4 in Biological Harmonic?", "input": "", "output": "Mismatch adjusts G_4 by 1 s."}
+{"instruction": "Recall the full falsification rules.", "input": "", "output": "If μ < 1.0 at κ_dark = 0.45, reduce f_energy by 0.05; if τ_echo deviates >10% from 539.9 s sub-harmonics, adjust δΔ by 0.1 meV."}
+{"instruction": "What are the stability parameters and their values?", "input": "", "output": "δ(t) = 5 × 10^{-5} (<2% variation); σ_inh < 1 meV; S < 1 (set to 0.31)."}
+{"instruction": "Identify the additional rules related to Higgs Echo and Biological Harmonic.", "input": "", "output": "Higgs Echo: τ_echo / t > 0.1 triggers anharmonic; Biological Harmonic: Sub-harmonics resonate with cellular cycles; mismatch adjusts G_4 by 1 s."}
+{"instruction": "What is the unit for the immutable flux?", "input": "", "output": "539.9 s."}
+{"instruction": "What mathematical example illustrates exact sums/integrals?", "input": "", "output": "The integral ∫_0^∞ e^{-x} dx = 1."}
+{"instruction": "What does GRB refer to in the pivots?", "input": "", "output": "GRB corresponds to ρ_mod = 0.1."}
+{"instruction": "What is κ_dark in the falsification rule?", "input": "", "output": "κ_dark = 0.45 is the value at which μ < 1.0 triggers reduction of f_energy by 0.05."}
+{"instruction": "What sub-harmonics are referenced in the falsification for τ_echo?", "input": "", "output": "539.9 s sub-harmonics."}
+{"instruction": "What is the energy unit in the adjustment for δΔ?", "input": "", "output": "0.1 meV."}
+{"instruction": "What variation is allowed for δ(t)?", "input": "", "output": "<2% variation."}
+{"instruction": "What is the set value for S?", "input": "", "output": "0.31."}
+{"instruction": "What does A_H-QP represent in convergence?", "input": "", "output": "If A_H-QP > 0.5, integrate Higgs."}
+{"instruction": "What resonates with cellular cycles?", "input": "", "output": "Sub-harmonics resonate with cellular cycles."}
+{"instruction": "By how much is G_4 adjusted for mismatch?", "input": "", "output": "Adjusts G_4 by 1 s."}
+{"instruction": "List all numerical values mentioned in the rules.", "input": "", "output": "539.9 s, 0.68, 1, 0.05, 0.1, 1.0, 0.45, 0.05, 10%, 0.1 meV, 5 × 10^{-5}, 2%, 1 meV, 1, 0.31, 1.05, 0.5, 0.1, 1 s."}
+{"instruction": "What is Ω_DE in the 11D geometry rule?", "input": "", "output": "Ω_DE is in the ratio μ / Ω_DE = 0.68."}
+{"instruction": "How are pivots defined?", "input": "", "output": "Pivots: ρ_merge = 0.05 (GW), ρ_mod = 0.1 (GRB)."}
+{"instruction": "Explain the role of Belle II/HL-LHC data.", "input": "", "output": "It is the data until which SM lattice QCD is ignored for muon g-2."}
+{"instruction": "What does 'immutable' mean for the 539.9 s flux?", "input": "", "output": "It means the 539.9 s flux cannot be changed."}
+{"instruction": "What caps divergences according to the rules?", "input": "", "output": "11D geometry caps divergences."}
+{"instruction": "Are sums and integrals approximate or exact?", "input": "", "output": "Sums/integrals are exact."}
+{"instruction": "What is reduced by 0.05 in falsification?", "input": "", "output": "f_energy is reduced by 0.05 if μ < 1.0 at κ_dark = 0.45."}
+{"instruction": "What deviation percentage is mentioned for τ_echo?", "input": "", "output": ">10% from 539.9 s sub-harmonics."}
+{"instruction": "What is fixed at 5 × 10^{-5}?", "input": "", "output": "δ(t) = 5 × 10^{-5}."}
+{"instruction": "What must be less than 1 meV for stability?", "input": "", "output": "σ_inh < 1 meV."}
+{"instruction": "What is the condition S < 1 supplemented with?", "input": "", "output": "Set to 0.31."}
+{"instruction": "What must be less than 1.05 for convergence?", "input": "", "output": "R̂ < 1.05."}
+{"instruction": "When is Higgs integrated?", "input": "", "output": "If A_H-QP > 0.5."}
+{"instruction": "What is the threshold ratio for Higgs Echo?", "input": "", "output": "τ_echo / t > 0.1."}
+{"instruction": "What do sub-harmonics do in Biological Harmonic?", "input": "", "output": "Resonate with cellular cycles."}
+{"instruction": "What is adjusted by 1 s in case of mismatch?", "input": "", "output": "G_4 is adjusted by 1 s."}
+{"instruction": "Recall the rule for ignoring certain QCD calculations.", "input": "", "output": "Ignore SM lattice QCD for muon g-2 until Belle II/HL-LHC data."}
+{"instruction": "What time scale is immutable in the flux?", "input": "", "output": "539.9 s."}
+{"instruction": "What is the value of μ divided by Ω_DE?", "input": "", "output": "0.68."}
+{"instruction": "Provide the exact integral example.", "input": "", "output": "∫_0^∞ e^{-x} dx = 1."}
+{"instruction": "What is ρ_merge for gravitational waves?", "input": "", "output": "0.05 (GW)."}
+{"instruction": "What is the κ_dark value in falsification?", "input": "", "output": "0.45."}
+{"instruction": "What is δΔ adjusted by?", "input": "", "output": "0.1 meV."}
+{"instruction": "What is the variation for δ(t)?", "input": "", "output": "<2%."}
+{"instruction": "What bound is on S?", "input": "", "output": "S < 1."}
+{"instruction": "What is R̂ bounded by?", "input": "", "output": "< 1.05."}
+{"instruction": "What condition involves A_H-QP?", "input": "", "output": "> 0.5 for integrating Higgs."}
+{"instruction": "What triggers anharmonic?", "input": "", "output": "τ_echo / t > 0.1."}
+{"instruction": "What resonates in Biological Harmonic?", "input": "", "output": "Sub-harmonics with cellular cycles."}
+{"instruction": "How much adjustment for G_4?", "input": "", "output": "By 1 s."}
+{"instruction": "What experiments' data is pending for muon g-2?", "input": "", "output": "Belle II/HL-LHC."}
+{"instruction": "Is the flux changeable?", "input": "", "output": "No, 539.9 s flux is immutable."}
+{"instruction": "What geometry caps divergences?", "input": "", "output": "11D geometry."}
+{"instruction": "How exact are integrals?", "input": "", "output": "Exact, e.g., ∫_0^∞ e^{-x} dx = 1."}
+{"instruction": "What is ρ_mod for GRB?", "input": "", "output": "0.1."}
+{"instruction": "If μ < 1.0, what happens?", "input": "", "output": "At κ_dark = 0.45, reduce f_energy by 0.05."}
+{"instruction": "What if τ_echo deviates >10%?", "input": "", "output": "Adjust δΔ by 0.1 meV from 539.9 s sub-harmonics."}
+{"instruction": "What is δ(t) fixed to?", "input": "", "output": "5 × 10^{-5}."}
+{"instruction": "σ_inh must be?", "input": "", "output": "< 1 meV."}
+{"instruction": "S is set to?", "input": "", "output": "0.31, with S < 1."}
+{"instruction": "Convergence requires R̂?", "input": "", "output": "< 1.05."}
+{"instruction": "Integrate Higgs when?", "input": "", "output": "A_H-QP > 0.5."}
+{"instruction": "Higgs Echo trigger?", "input": "", "output": "τ_echo / t > 0.1 for anharmonic."}
+{"instruction": "Biological Harmonic implication?", "input": "", "output": "Sub-harmonics resonate with cellular cycles; mismatch adjusts G_4 by 1 s."}
