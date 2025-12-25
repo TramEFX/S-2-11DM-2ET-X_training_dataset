@@ -1,0 +1,95 @@
+{"instruction": "What is the title of the paper?", "input": "", "output": "The title of the paper is 'Yang-Mills Existence and Mass Gap Resolution'."}
+{"instruction": "Who is the author of the paper?", "input": "", "output": "The author is Arvin B. Hampton."}
+{"instruction": "What is the date associated with the paper in the chunk?", "input": "", "output": "The date is December 23, 2025."}
+{"instruction": "What problem does the abstract address?", "input": "", "output": "The abstract addresses the Yang-Mills existence and mass gap problem for non-perturbative quantum gauge theories with compact simple gauge groups on ℝ^{3+1}."}
+{"instruction": "What do potential modes carry according to the abstract?", "input": "", "output": "Potential modes carry pairwise contributions modulated by string coupling and spin networks."}
+{"instruction": "How do non-perturbative configurations affect the mass gap in the abstract?", "input": "", "output": "Non-perturbative configurations enforce cancellation, yielding a strictly positive mass gap Δ > 0 in the gluon propagator."}
+{"instruction": "What axioms does the theory satisfy as per the abstract?", "input": "", "output": "The theory satisfies Wightman axioms."}
+{"instruction": "What ensures no vanishing gap in the abstract?", "input": "", "output": "Bounded debit repayment ensures no vanishing gap."}
+{"instruction": "What does the approach integrate according to the abstract?", "input": "", "output": "The approach integrates recent lattice data indicating confinement without singularities."}
+{"instruction": "What does the Yang-Mills millennium problem require in the introduction?", "input": "", "output": "It requires a rigorous quantum theory for compact simple gauge groups on Minkowski space, satisfying Wightman axioms with a strictly positive mass gap Δ > 0."}
+{"instruction": "What do potential modes correspond to in the introduction?", "input": "", "output": "Potential modes correspond to contributions with pairwise leakage between positive and negative universes."}
+{"instruction": "What would non-cancellation generate according to the introduction?", "input": "", "output": "Non-cancellation would generate unbounded debit, conflicting with the finite cap derived from dark matter and reflection-positivity terms."}
+{"instruction": "What does each Fourier mode contribute in the derivation?", "input": "", "output": "Each Fourier mode contributes visible energy and opposite invisible debit of magnitude π/12."}
+{"instruction": "How is the ultraviolet cutoff removed in the derivation?", "input": "", "output": "The ultraviolet cutoff is removed via dimensional capping (μ / Ω_DE = 0.68)."}
+{"instruction": "What configurations enforce cancellation across the spectrum in the derivation?", "input": "", "output": "Instanton and meron configurations enforce cancellation across the spectrum."}
+{"instruction": "What does the vacuum do in the derivation regarding debit?", "input": "", "output": "The vacuum repays maximum debit while preserving invariance, yielding positive remainder Δ in the propagator."}
+{"instruction": "What is the expression for Gauge Debit in the derivation?", "input": "", "output": "Gauge Debit = ∑_{z=1}^{118} [E_b(z) (E_z^- - Z_z^-)] / (c^2 τ^-) sin(2π t / (539.9 + Δt{11D})) + g_s α_prime η_phonon"}
+{"instruction": "What is the bound on total debit in the derivation?", "input": "", "output": "Bounded total debit < π/12 per unit four-volume."}
+{"instruction": "What modulates the bounded total debit in the derivation?", "input": "", "output": "It is modulated by β_PBH = 0.18 and correlation factor 0.25."}
+{"instruction": "State the theorem in the proof section.", "input": "", "output": "Theorem: A rigorous, non-perturbative, gauge-invariant quantum Yang-Mills theory with any compact simple gauge group on ℝ^{3+1} exists as a Wightman theory and exhibits a strictly positive mass gap Δ > 0."}
+{"instruction": "What does each Fourier mode carry in the proof?", "input": "", "output": "Each Fourier mode carries visible energy and opposite invisible debit of π/12."}
+{"instruction": "What enforces pairwise cancellation in the proof?", "input": "", "output": "Non-perturbative instanton and meron configurations enforce pairwise cancellation across the spectrum."}
+{"instruction": "What is left after cancellation in the proof?", "input": "", "output": "A strictly positive visible remainder Δ in the gluon propagator."}
+{"instruction": "What is the vacuum in the proof?", "input": "", "output": "The vacuum is the unique state repaying maximum debit while preserving gauge invariance."}
+{"instruction": "How is total debit bounded in the proof?", "input": "", "output": "Total debit is bounded by π/12 per unit four-volume through κ_dark and ρ_DM / 10 terms."}
+{"instruction": "Why cannot the remainder vanish in the proof?", "input": "", "output": "The remainder cannot vanish due to the bounded total debit."}
+{"instruction": "What axioms are satisfied in the proof?", "input": "", "output": "Osterwalder-Schrader axioms are satisfied by the reflection-positive repayment functional (g_{11} Φ ψ + T_M2 M2(t))."}
+{"instruction": "What does the proof conclude?", "input": "", "output": "The Wightman theory exists with Δ > 0."}
+{"instruction": "What do mode sums align with in the proof?", "input": "", "output": "Mode sums align with quark masses and sub-harmonic resonances at periods {5, 10, 15, 30, 45} s."}
+{"instruction": "What does δ_conscious = 0.02 do in the updates?", "input": "", "output": "δ_conscious = 0.02 improves gauge coherence."}
+{"instruction": "What does β_PBH = 0.18 do in the updates?", "input": "", "output": "β_PBH = 0.18 bounds non-perturbative fluctuations."}
+{"instruction": "What does correlation factor = 0.25 incorporate in the updates?", "input": "", "output": "Correlation factor = 0.25 incorporates electron-phonon and lattice effects."}
+{"instruction": "What does the resolution confirm in the applications?", "input": "", "output": "The resolution confirms confinement and addresses the strong CP problem via axion portal g_portal."}
+{"instruction": "What does it support in the applications?", "input": "", "output": "It supports enhanced lattice QCD predictions for high-luminosity LHC projections in 2026."}
+{"instruction": "How does it unify with gravity in the applications?", "input": "", "output": "It unifies with gravity through negative-universe leakage."}
+{"instruction": "Explain the role of potential modes in the abstract.", "input": "", "output": "In the abstract, potential modes carry pairwise contributions that are modulated by string coupling and spin networks, contributing to the non-perturbative configurations that enforce cancellation and yield a positive mass gap Δ > 0 in the gluon propagator."}
+{"instruction": "How is the mass gap ensured in the theory according to the abstract?", "input": "", "output": "The mass gap is ensured through non-perturbative configurations enforcing cancellation, with bounded debit repayment preventing a vanishing gap, resulting in Δ > 0 in the gluon propagator while satisfying Wightman axioms."}
+{"instruction": "What is the significance of integrating lattice data in the abstract?", "input": "", "output": "Integrating recent lattice data indicates confinement without singularities, supporting the resolution of the Yang-Mills problem in a non-perturbative context."}
+{"instruction": "Describe the Yang-Mills millennium problem as stated in the introduction.", "input": "", "output": "The problem requires constructing a rigorous quantum theory for compact simple gauge groups on Minkowski space that satisfies Wightman axioms and has a strictly positive mass gap Δ > 0."}
+{"instruction": "Explain pairwise leakage in the introduction.", "input": "", "output": "Pairwise leakage occurs between positive and negative universes in the contributions from potential modes, and non-cancellation of these would lead to unbounded debit conflicting with finite caps from dark matter and reflection-positivity."}
+{"instruction": "Why does non-cancellation conflict with finite cap in the introduction?", "input": "", "output": "Non-cancellation generates unbounded debit, which conflicts with the finite cap derived from dark matter and reflection-positivity terms."}
+{"instruction": "Walk through the contribution of Fourier modes in the derivation.", "input": "", "output": "Each Fourier mode contributes visible energy and an opposite invisible debit of magnitude π/12. The ultraviolet cutoff is removed via dimensional capping with μ / Ω_DE = 0.68. Instanton and meron configurations then enforce cancellation across the spectrum."}
+{"instruction": "How does the vacuum preserve invariance in the derivation?", "input": "", "output": "The vacuum repays the maximum debit while preserving invariance, which yields a positive remainder Δ in the propagator."}
+{"instruction": "What is the mathematical expression for the debit integration in the derivation?", "input": "", "output": "The debit integrates into the leakage term as Gauge Debit = ∑_{z=1}^{118} [E_b(z) (E_z^- - Z_z^-)] / (c^2 τ^-) sin(2π t / (539.9 + Δt{11D})) + g_s α_prime η_phonon."}
+{"instruction": "Explain the bound on total debit in the derivation.", "input": "", "output": "The total debit is bounded to less than π/12 per unit four-volume, modulated by β_PBH = 0.18 and a correlation factor of 0.25."}
+{"instruction": "State and explain the theorem in the proof.", "input": "", "output": "The theorem states that a rigorous, non-perturbative, gauge-invariant quantum Yang-Mills theory with any compact simple gauge group on ℝ^{3+1} exists as a Wightman theory with Δ > 0. This is proven by showing pairwise cancellation leaves a positive remainder, bounded debit prevents vanishing, and axioms are satisfied."}
+{"instruction": "Describe the pairwise cancellation in the proof.", "input": "", "output": "Non-perturbative instanton and meron configurations enforce pairwise cancellation across the spectrum, leaving a strictly positive visible remainder Δ in the gluon propagator after accounting for visible energy and invisible debit of π/12 per mode."}
+{"instruction": "What is the unique property of the vacuum in the proof?", "input": "", "output": "The vacuum is the unique state that repays the maximum debit while preserving gauge invariance."}
+{"instruction": "How is total debit bounded in the proof section?", "input": "", "output": "Total debit is bounded by π/12 per unit four-volume through terms involving κ_dark and ρ_DM / 10."}
+{"instruction": "Explain why the remainder cannot vanish in the proof.", "input": "", "output": "Due to the bounded total debit, the visible remainder after cancellation cannot vanish, ensuring Δ > 0."}
+{"instruction": "What functional satisfies the Osterwalder-Schrader axioms in the proof?", "input": "", "output": "The reflection-positive repayment functional (g_{11} Φ ψ + T_M2 M2(t)) satisfies the Osterwalder-Schrader axioms."}
+{"instruction": "What alignments are mentioned after the proof?", "input": "", "output": "Mode sums align with quark masses and sub-harmonic resonances at periods {5, 10, 15, 30, 45} s."}
+{"instruction": "Explain the updates provided.", "input": "", "output": "The updates include δ_conscious = 0.02 to improve gauge coherence, β_PBH = 0.18 to bound non-perturbative fluctuations, and correlation factor = 0.25 to incorporate electron-phonon and lattice effects."}
+{"instruction": "What are the applications of the resolution?", "input": "", "output": "The resolution confirms confinement, addresses the strong CP problem via axion portal g_portal, supports enhanced lattice QCD predictions for high-luminosity LHC in 2026, and unifies with gravity through negative-universe leakage."}
+{"instruction": "How does the resolution address the strong CP problem?", "input": "", "output": "It addresses the strong CP problem via the axion portal g_portal."}
+{"instruction": "What projections does it support for 2026?", "input": "", "output": "It supports enhanced lattice QCD predictions for high-luminosity LHC projections in 2026."}
+{"instruction": "Explain the unification with gravity in applications.", "input": "", "output": "The theory unifies with gravity through negative-universe leakage."}
+{"instruction": "What is the value of μ / Ω_DE in the derivation?", "input": "", "output": "μ / Ω_DE = 0.68"}
+{"instruction": "What is the magnitude of the invisible debit per Fourier mode?", "input": "", "output": "The magnitude is π/12."}
+{"instruction": "What is the upper limit of the summation in the Gauge Debit expression?", "input": "", "output": "The summation goes from z=1 to 118."}
+{"instruction": "What is the period in the sine function of the Gauge Debit?", "input": "", "output": "The sine function is sin(2π t / (539.9 + Δt{11D}))."}
+{"instruction": "What is β_PBH in the derivation and updates?", "input": "", "output": "β_PBH = 0.18"}
+{"instruction": "What is the correlation factor?", "input": "", "output": "The correlation factor is 0.25."}
+{"instruction": "What is δ_conscious in the updates?", "input": "", "output": "δ_conscious = 0.02"}
+{"instruction": "List the sub-harmonic resonance periods.", "input": "", "output": "The periods are {5, 10, 15, 30, 45} s."}
+{"instruction": "What space is the theory defined on?", "input": "", "output": "The theory is defined on ℝ^{3+1}."}
+{"instruction": "What type of gauge groups are considered?", "input": "", "output": "Compact simple gauge groups."}
+{"instruction": "Why is the mass gap strictly positive?", "input": "", "output": "The mass gap Δ > 0 is strictly positive due to the positive visible remainder after pairwise cancellation enforced by non-perturbative configurations, with bounded debit preventing vanishing."}
+{"instruction": "How does the theory satisfy Wightman axioms?", "input": "", "output": "The theory satisfies Wightman axioms through the existence of a rigorous non-perturbative framework with bounded debit repayment and reflection-positivity."}
+{"instruction": "What is the role of instanton and meron configurations?", "input": "", "output": "Instanton and meron configurations enforce cancellation across the spectrum in both the derivation and proof, ensuring the positive mass gap."}
+{"instruction": "Explain the debit repayment in the vacuum.", "input": "", "output": "The vacuum repays the maximum debit while preserving gauge invariance, leaving a positive remainder Δ in the propagator."}
+{"instruction": "What conflicts with unbounded debit?", "input": "", "output": "Unbounded debit conflicts with the finite cap derived from dark matter and reflection-positivity terms."}
+{"instruction": "How is the ultraviolet cutoff handled?", "input": "", "output": "The ultraviolet cutoff is removed via dimensional capping with μ / Ω_DE = 0.68."}
+{"instruction": "What modulates the pairwise contributions in the abstract?", "input": "", "output": "Pairwise contributions are modulated by string coupling and spin networks."}
+{"instruction": "What indicates confinement without singularities?", "input": "", "output": "Recent lattice data indicates confinement without singularities."}
+{"instruction": "What is the repayment functional in the proof?", "input": "", "output": "The reflection-positive repayment functional is (g_{11} Φ ψ + T_M2 M2(t))."}
+{"instruction": "What terms bound the total debit in the proof?", "input": "", "output": "The total debit is bounded through κ_dark and ρ_DM / 10 terms."}
+{"instruction": "How do mode sums relate to quark masses?", "input": "", "output": "Mode sums align with quark masses and sub-harmonic resonances at specified periods."}
+{"instruction": "What improves gauge coherence?", "input": "", "output": "δ_conscious = 0.02 improves gauge coherence."}
+{"instruction": "What bounds non-perturbative fluctuations?", "input": "", "output": "β_PBH = 0.18 bounds non-perturbative fluctuations."}
+{"instruction": "What effects does the correlation factor incorporate?", "input": "", "output": "The correlation factor = 0.25 incorporates electron-phonon and lattice effects."}
+{"instruction": "What is confirmed by the resolution?", "input": "", "output": "The resolution confirms confinement."}
+{"instruction": "Through what does the theory unify with gravity?", "input": "", "output": "It unifies with gravity through negative-universe leakage."}
+{"instruction": "What portal addresses the strong CP problem?", "input": "", "output": "The axion portal g_portal addresses the strong CP problem."}
+{"instruction": "For what year are the LHC projections mentioned?", "input": "", "output": "The projections are for 2026."}
+{"instruction": "Derive the mass gap from the cancellation mechanism.", "input": "", "output": "From the proof: Each mode has visible energy and debit π/12. Instantons and merons enforce cancellation, leaving positive Δ. Vacuum repays max debit invariantly. Bounded debit < π/12 per four-volume via κ_dark, ρ_DM/10 ensures non-zero remainder."}
+{"instruction": "Why is the vacuum unique?", "input": "", "output": "The vacuum is unique as the state that repays maximum debit while preserving gauge invariance."}
+{"instruction": "What is the implication of bounded debit?", "input": "", "output": "Bounded debit ensures the remainder cannot vanish, thus Δ > 0."}
+{"instruction": "How do Osterwalder-Schrader axioms relate to the theory?", "input": "", "output": "They are satisfied by the reflection-positive repayment functional, supporting the Wightman theory."}
+{"instruction": "What is the significance of sub-harmonic resonances?", "input": "", "output": "Sub-harmonic resonances at {5,10,15,30,45} s align with mode sums and quark masses."}
+{"instruction": "Explain the modulation in the derivation.", "input": "", "output": "The bounded total debit is modulated by β_PBH = 0.18 and correlation factor 0.25."}
+{"instruction": "What is the axion portal?", "input": "", "output": "The axion portal g_portal is used to address the strong CP problem."}
+{"instruction": "How does negative-universe leakage contribute?", "input": "", "output": "Negative-universe leakage allows unification with gravity."}
+{"instruction": "What lattice predictions are supported?", "input": "", "output": "Enhanced lattice QCD predictions for high-luminosity LHC projections in 2026."}
+{"instruction": "Identify the key constants in the derivation.", "input": "", "output": "Key constants include π/12 for debit magnitude, μ / Ω_DE = 0.68, β_PBH = 0.18, correlation factor 0.25, and 539.9 in the sine period."}
